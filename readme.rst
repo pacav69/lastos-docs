@@ -1,2 +1,3 @@
-# lastos-docs
+#  Welcome to LastOS Docs
+
 lastos-docs
