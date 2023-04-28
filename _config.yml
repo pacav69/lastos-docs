@@ -28,7 +28,8 @@ navbar-links:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Docs:
-    - Winbuilder: "https://www.lastos.org/forum/index.php"
+    - Winbuilder: "winbuilderdoc"
+    - lastosbuilder: "lastosbuilder"
   LastOS home: "https://www.lastos.org/forum/index.php"
 
 ################
