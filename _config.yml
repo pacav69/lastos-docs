@@ -22,7 +22,7 @@ author: LastOS Team
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Docs:
     - Winbuilder: "https://www.lastos.org/forum/index.php"
