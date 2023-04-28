@@ -139,17 +139,18 @@ navbar-var-length: false
 remote_theme: pages-themes/hacker@v0.2.0
 
 
-# navbar-col: "#EAEAEA"
-# navbar-text-col: "#404040"
-# navbar-border-col: "#DDDDDD"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
 # page-col: "#FFFFFF"
-# text-col: "#404040"
-# link-col: "#008AFF"
-# hover-col: "#0085A1"
-# footer-col: "#EAEAEA"
-# footer-text-col: "#777777"
-# footer-link-col: "#404040"
-# footer-hover-col: "#0085A1"
+page-col: "#0F0F0F"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
