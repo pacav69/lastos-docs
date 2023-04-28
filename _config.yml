@@ -43,7 +43,7 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-title-img: <https://cldup.com/E21ACrr4ZJ.png?raw="true" width="100px"  height="100px">
+# title-img: <https://cldup.com/E21ACrr4ZJ.png?raw="true" width="100px"  height="100px">
 
 
 
