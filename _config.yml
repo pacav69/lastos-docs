@@ -11,7 +11,7 @@
 ############################
 
 # Name of website
-title: LastOSDocs
+# title: LastOSDocs
 
 # Your name to show in the footer
 author: LastOS Team
@@ -22,9 +22,9 @@ author: LastOS Team
 
 navbar-links:
   About Me: "aboutme"
-  Doc: 
-    - WinBuilder: "winbuilderdoc"
-    - About Me: "aboutme"
+  # Doc: 
+  #   - WinBuilder: "winbuilderdoc"
+  #   - About Me: "aboutme"
   Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
