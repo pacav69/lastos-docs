@@ -29,7 +29,7 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Docs:
     - Winbuilder: "winbuilderdoc"
-    - lastosbuilder: "docs/lastosbuilder"
+    - lastosbuilder: "lastosbuilder"
     # docs/lastosbuilder.md
   LastOS home: "https://www.lastos.org/forum/index.php"
 
