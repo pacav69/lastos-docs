@@ -3,12 +3,9 @@ layout: page
 title: lastosbuilder
 subtitle: How to: use lastosbuilder
 ---
-lastosbuilder
 
+# Lastosbuilder User manual
 
-# Winbuilder User manual
-
-## Winbuilder script creation
 
 Select tools
 
