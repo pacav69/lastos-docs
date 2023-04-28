@@ -1,3 +1,10 @@
+
+layout: page
+title: Winbuilder
+subtitle: How to: use Winbuilder
+---
+
+
 # Winbuilder User manual
 
 ## Winbuilder script creation

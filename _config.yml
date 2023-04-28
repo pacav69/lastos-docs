@@ -21,6 +21,7 @@ author: LastOS Team
 
 navbar-links:
   About Me: "aboutme"
+  Doc; "winbuilderdoc"
   Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
