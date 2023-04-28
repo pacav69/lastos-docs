@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Winbuilder
-subtitle: How to: use Winbuilder
+subtitle: How to use Winbuilder
 ---
 
 
