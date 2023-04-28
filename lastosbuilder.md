@@ -1,8 +1,9 @@
 ---
 layout: page
-title: lastos builder
-subtitle: How to: use lastosbuilder
+title: Winbuilder
+subtitle: How to: use Winbuilder
 ---
+
 
 # LastOS Builder User Manual
 
