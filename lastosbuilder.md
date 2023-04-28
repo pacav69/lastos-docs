@@ -1,7 +1,7 @@
 ---
 layout: page
-title: lastos builder
-subtitle: How to use lastosbuilder
+title: LastS builder
+subtitle: How to use Lastosbuilder
 ---
 
 # LastOS Builder User Manual
