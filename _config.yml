@@ -5,6 +5,7 @@
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
 
+
 ############################
 # --- Required options --- #
 ############################
@@ -140,8 +141,7 @@ remote_theme: pages-themes/hacker@v0.2.0
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-# page-col: "#FFFFFF"
-page-col: "#000000"
+page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
